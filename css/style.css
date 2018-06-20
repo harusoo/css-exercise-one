@@ -37,3 +37,16 @@ h3 {
   margin 10px 0;
   width: 100%;
 }
+
+.element:seventh-child {
+  /* change of background color */
+  background-color: pink;
+}
+
+.element:eighth-child {
+  background-color: pink;
+}
+
+.element:ninth-child {
+  background-color: pink;
+}
